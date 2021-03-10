@@ -1,0 +1,27 @@
+.empty {
+  background : #ffffff;
+  padding : 20px 20px;
+  border : 2px none;
+}
+
+.mouse-over {
+  border-width : 5px;
+}
+
+.empty-space {
+  background : #ffffff;
+  padding : 20px 20px;
+  border : 2px solid #000000;
+}
+
+.incorrect-guess {
+  background : #ff6868;
+  padding : 20px 20px;
+  border : 2px solid #d40000;
+}
+
+.correct-guess {
+  background : #68ff68;
+  padding : 20px 20px;
+  border : 2px solid #00bd00;
+}
